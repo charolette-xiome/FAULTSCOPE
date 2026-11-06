@@ -190,7 +190,7 @@ All core work uses free/open-source tools.
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/FaultScope.git
+git clone https://github.com/charolette-xiome/FAULTSCOPE
 cd FaultScope
 
 # Run the full regression and generate the report
